@@ -25,3 +25,6 @@ Many yougsters simply cannot afford expensive bootcamps and story-based programm
 STEP 1: 
 STEP 2:
 STEP 3: You are ready now. Click on "Challenge One: Where Are You ?" and enjoy.
+
+# Licence: 
+This little project is made with love by Yassine Hentati, a prospective university student, and is subject to copyright.
