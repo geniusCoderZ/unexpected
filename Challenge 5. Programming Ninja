@@ -1,0 +1,24 @@
+In a group work, you were asked to write a script for a speech about C++. 
+You gathered some information online and were left with an unformatted file. 
+Given that you have just lost your phone and don't want to spend too much time fine tuning the text, 
+you decided to write a software to get the job done for you.
+
+What you know: The text needs to be formatted
+What you have: Download "wiki.txt"
+Your Target: Format the text as following:
+
+1. The letters after full stops and names must be capitalized. Otherwise, they must be lowered.
+For example: 
+  The bird EATS cheese. the Fox is jealous.
+This sentence should be converted to the following:
+The bird eats cheese. The fox is jealous.
+HINT: If a an entire word is found capitalized, it's probably a name and should remain unchanged.
+
+2. Numbers between brackets should be deleted.
+For example: It's well-known that [3] C++ is efficient.
+This sentence should be converted to the following:
+It's well-known that C++ is efficient.
+
+3. Double spaces should be converted to a single space.
+
+Consider only making these changes. 
