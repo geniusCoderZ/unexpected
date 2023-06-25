@@ -1,0 +1,17 @@
+Lectures seem to last for ages, if you ask me. Luckily for you, it's finally the weekend. 
+Everybody is at home studying, but of course, unlike the others, you decided to go on a walk, a long one...
+When coming back home, you realized that... your phone was stolen !! 
+You have just been a victim of pickpocketing despite all your security measures. 
+
+Instead of blaming yourself for going out, you opened your laptop to ask friends for help 
+and to look for useful information online. 
+During you research, Facebook sends you a notification to remind you of 88 upcoming events. 
+Suddenly, you remembered that you signed up for a programming contest that you absolutely don't want to miss. 
+To make things worse, you forgot its name and location.
+For example:
+  Coding Gram / 19:30 / 2 / Exodus Development Co.
+This means that an event of name "Coding Gram" starts at 19:30, lasts for 2 hours and is hosted by Exodus Development Co.
+
+What you know: The event ends at 21:45.
+What you have: Download "events.txt"
+Your Target: Find the event's name
