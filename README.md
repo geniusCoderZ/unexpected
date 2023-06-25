@@ -22,10 +22,10 @@ Many yougsters simply cannot afford expensive bootcamps and story-based programm
 3. C++ is useful for many applications. Do some research to find out why.
 
 # What should I do to get started ?
-STEP 1: Watch https://youtu.be/MNeX4EGtR5Y
-STEP 2: Watch https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb
-STEP 3: Follow https://www.youtube.com/@PortfolioCourses
-STEP 4: You are ready now. Click on "Challenge One: Where Are You ?" and enjoy.
+STEP 1: Watch https://youtu.be/MNeX4EGtR5Y\n
+STEP 2: Watch https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb\n
+STEP 3: Follow https://www.youtube.com/@PortfolioCourses\n
+STEP 4: You are ready now. Click on "Challenge One: Where Are You ?" and enjoy.\n
 
 # Licence: 
 This little project is made with love by Yassine Hentati, a prospective university student, and is subject to copyright.
