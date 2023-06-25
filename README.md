@@ -1,4 +1,4 @@
-![pexels-olena-bohovyk-3646172](https://github.com/geniusCoderZ/unexpected/assets/107373491/037866c5-7be8-47a7-a2c6-03cb2b509f40|250*250)
+![pexels-olena-bohovyk-3646172](https://github.com/geniusCoderZ/unexpected/assets/107373491/037866c5-7be8-47a7-a2c6-03cb2b509f40|100*100)
 Photo by Olena Bohovyk: https://www.pexels.com/photo/brown-wooden-shelf-with-books-3646172/
 
 
