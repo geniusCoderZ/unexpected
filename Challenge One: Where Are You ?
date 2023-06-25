@@ -1,0 +1,15 @@
+The next day would be your first day of high school/university. 
+To avoid getting lost, you open an online map that shows local stores and institutions. 
+Sadly, the city was too crowded and many buildings had similar names. 
+So you extracted the GPS information of each facility to a file called "Dataset.txt"
+and wrote a software to find your high school/university. 
+Each line contains the names of the buildings on the same street that are away from one another by 25m.
+For example:
+  Pacha NYC,Western Connecticut State University,Bank of New Jersey,Morris Public Library
+You can visualize that as follows:
+           25m                                         25m                       25m
+Pacha NYC <----> Western Connecticut State University <----> Bank of New Jersey <----> Morris Public Library
+
+What you know: Your school is distant from "Panda King" by 75m.
+What you have: Click on Dataset.txt above. 
+Your Target: Find the address of your school.
