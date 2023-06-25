@@ -1,7 +1,5 @@
-![pexels-olena-bohovyk-3646172](https://github.com/geniusCoderZ/unexpected/assets/107373491/037866c5-7be8-47a7-a2c6-03cb2b509f40|hight="50" width="50")
-<img src="https://github.com/geniusCoderZ/unexpected/assets/107373491/037866c5-7be8-47a7-a2c6-03cb2b509f40.png" width="150" height="280">
-Photo by Olena Bohovyk: https://www.pexels.com/photo/brown-wooden-shelf-with-books-3646172/
 
+<img src="https://github.com/geniusCoderZ/unexpected/assets/107373491/037866c5-7be8-47a7-a2c6-03cb2b509f40.png" width="200" height="200">
 
 # A simple story-based programming contest:
 You are a talented student who wants to survive high school or university. Your skills in programming and problem solving will help you do just that. I designed daily challenges to enhance your thought process and to build a practical experience in the C++ programming language. The contest will last 2-3 weeks so there is enough time for you to learn C++ and to solve the problems (in order). I'm expecting you to put up the effort and to spare some time for that. Take this opportunity and you will be happy for doing so. Good luck !
