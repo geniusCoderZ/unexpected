@@ -1,5 +1,6 @@
-
-<img src="https://github.com/geniusCoderZ/unexpected/assets/107373491/037866c5-7be8-47a7-a2c6-03cb2b509f40.png" width="200" height="200">
+<p align="center">
+  <img width="350" height="300" src="https://github.com/geniusCoderZ/unexpected/assets/107373491/037866c5-7be8-47a7-a2c6-03cb2b509f40.png">
+</p>
 
 # A simple story-based programming contest:
 You are a talented student who wants to survive high school or university. Your skills in programming and problem solving will help you do just that. I designed daily challenges to enhance your thought process and to build a practical experience in the C++ programming language. The contest will last 2-3 weeks so there is enough time for you to learn C++ and to solve the problems (in order). I'm expecting you to put up the effort and to spare some time for that. Take this opportunity and you will be happy for doing so. Good luck !
