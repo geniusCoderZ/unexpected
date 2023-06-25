@@ -1,0 +1,30 @@
+You enjoyed your first week in you high school or university. You mingled with new friends and had a fun time.
+But something was bothering you. You feel you're being watched. 
+Everywhere you go, you find the same student staring at you in an uncomfortable way. 
+Trying to ignore the fact didn't help of course.
+One day after classes and after playing basketball with mates, you went to the washroom to wash your hands. 
+A man wearing sunglasses showed up and said something strange:
+- "So you're back. We didn't expect that." 
+Just before turning around to recognise him, he disappeared. 
+He left a piece of paper on which he wrote a URL of a file stored in the cloud. 
+You went home, downloaded the file, and, to your surprise, 
+found the complete list of all the students who applied to your university !
+Full names, age (by interval), email addresses, residency...
+
+You were very confused and wondered why you're  being followed and why you're given such file. 
+After a closer look, you realized that everyone had an 8-digit key. 
+You thought the man was trying to tell you something through those keys. 
+Therefore, you wrote a software to find your key, just in case you need it.
+
+For example:
+Let Alan Lucas be a someone who lives in New York, is 22 years old and has a key of 46127548.
+This can be written as the following:
+Alan Lucas,New York,alanlucas13@uni.edu,19-22,46127548
+Alan Lucas,New York,alanlucas13@uni.edu,20-23,46127548
+Alan Lucas,New York,alanlucas13@uni.edu,20-22,46127548
+Alan Lucas,New York,alanlucas13@uni.edu,22-24,46127548
+..... and so on......
+
+What you know: Your name is Mark David and you are 20 years old.
+What you have: Click on "Credantials.txt" above
+Your Target: Find your key.
