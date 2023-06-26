@@ -17,7 +17,7 @@ Please note that I only express my opinion and I'm not trying to offend anyone. 
 Many yougsters simply cannot afford expensive bootcamps and story-based programming contests are next to non-existent. Therefore, I decided to take the initiative. I hope you enjoy the contest.
 
 # Why C++ ?
-1. Unlike other high level programming languages such as *coughs* Python, C++ is super duper crazy fast and efficient. Bear in mind that C++ is a HUGE beast. Hence, I advise you learn C first because it's MUCH simpler. This can be done in a week or two just to get started and be able to participate in the contest.
+1. Unlike other high level programming languages such as Python, C++ is super duper crazy fast and efficient. Bear in mind that C++ is a HUGE beast. Hence, I advise you learn C first because it's MUCH simpler. This can be done in a week or two just to get started and be able to participate in the contest.
 2. Working with C will teach you how computers really work. Once you acquire some of that knowledge, you will build C++ programs to find the answers of the 6 problems. This is because working with strings in C is very challenging. If you can do it, good for you ! 
 3. C++ is useful for many applications. Do some research to find out why.
 
